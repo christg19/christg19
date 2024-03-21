@@ -14,6 +14,7 @@ I'm a <strong>software developer</strong> actively expanding my expertise throug
 
 <h3>🚀 Some of my main projects now:</h3>
 
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christg19&repo=Dientasoft&theme=dark)](https://github.com/christg19/Dientasoft)
 
 
 ## Tech & Tools Preference
