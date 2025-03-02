@@ -14,11 +14,6 @@ I'm a <strong>software developer</strong> actively expanding my expertise throug
 
 <h3>🚀 Some of my main projects now:</h3>
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christg19&repo=adooptame-PWA&theme=dark)](https://github.com/christg19/adooptame-PWA)
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christg19&repo=DGII-Form-606-Data-Generator&theme=dark)](https://github.com/christg19/DGII-Form-606-Data-Generator)
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christg19&repo=Accounting-Companion&theme=dark)](https://github.com/christg19/Accounting-Companion)
-
-
 ## Tech & Tools Preference
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,mysql,postman,bootstrap,docker,figma,)](https://skillicons.dev)
  -->
